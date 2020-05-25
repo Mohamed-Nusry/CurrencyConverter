@@ -1,0 +1,22 @@
+body{
+	background: #dfe1e2;
+}
+
+.converter-body{
+	background-color: #4b82ac;
+	border-radius: 20px;
+	padding: 35px;
+}
+
+.btn-convert{
+	border-radius: 20px;
+}
+
+.loading-img{
+	display: none;
+}
+
+.result-div{
+	display: none;
+}
+    
